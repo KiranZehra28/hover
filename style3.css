@@ -1,0 +1,14 @@
+tbody{background-color: rgb(100, 13, 13);}
+.one{background-color: rgb(231, 121, 102);
+    text-align: left;font-size: smaller;
+    padding: 25px 100px 25px 0px;color: white;}
+#one{padding: 50px 35px 50px 300px;color: white;}
+.two{padding: 20px 80px;color: white;}
+#two{text-align: center;color: white;}
+ul:hover{background-color: rgb(107, 76, 81);}
+li:hover{background-color: rgb(100, 13, 13);list-style-type: decimal;}
+.one:hover{background-color: burlywood;padding: 0;}
+table{border-collapse: collapse;}
+body{margin: 100px;}
+ul{padding-right: 0px;margin: 0;}
+li{padding-right: 170px;}
